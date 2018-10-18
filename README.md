@@ -1,0 +1,2 @@
+# smbtrap
+redirect to smb
